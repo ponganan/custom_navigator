@@ -33,7 +33,7 @@ class _MainPageState extends State<MainPage> {
     Center(
       child: Text(
         'Meet',
-        style: TextStyle(fontSize: 70),
+        style: TextStyle(fontSize: 71),
       ),
     ),
   ];
